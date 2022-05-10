@@ -1,0 +1,9 @@
+{
+  "name": "api-base",
+  "version": "0.0.1",
+  "description": "Base api developed for login and route control",
+  "main": "app.js",
+  "repository": "https://github.com/lramartins/api-base-postgres",
+  "author": "Luis R. A. Martins",
+  "license": "MIT"
+}
